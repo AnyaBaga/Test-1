@@ -1,0 +1,9 @@
+/* Header, footer */
+
+header, footer {
+  background-color: #38b6ff;
+}
+
+header, main, footer, nav{
+  font-family: 'Zhi Mang Xing', cursive;
+}
